@@ -12,5 +12,8 @@ A capstone project for the AI-assisted development internship track.
 ## Getting Started
 Instructions will be added once the project structure is in place.
 
+## Goal
+This capstone will demonstrate practical AI-assisted development skills — using tools like Cursor and Claude Code to plan, build, and ship a real project as part of this internship track.
+
 ## License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
